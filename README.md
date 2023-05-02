@@ -1,2 +1,2 @@
 # basic-quiz
-simple c code for quiz using file handling 
+simple C code for quiz using file handling 
