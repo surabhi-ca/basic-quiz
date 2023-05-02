@@ -87,7 +87,7 @@ int main()
 
 
 
-    FILE *fp;
+    FILE *fp;    //file pointer
     
     do 
        {
