@@ -1,0 +1,56 @@
+1 C
+LED stands for ____
+A. Light Emitting Display
+B. Low Energy Display
+C. Light Emitting Diode
+D. Light Emitting Detector 
+The hint is:it is a diode
+2 A
+If two resistors are placed in series, ____ is the final resistance
+A. higher
+B. lower
+C. the same
+D. cannot be determined 
+The hint is:resistances add up when in series
+3 B
+A DC voltage ____
+A. rises and falls
+B. remains constant
+C. is an audio waveform
+D. is a sinewave 
+The hint is:it doesn't change
+4 D
+1,200mV is equal to:
+A. 0.0012V
+B. 12V
+C. 0.12V
+D. 1.2V 
+The hint is:m refers to 10^-3
+5 A
+If a 10 ohm resistor is placed across a 10V supply, the current will be:
+A. 1A
+B. 100A
+c. 0.01A
+D. none of these 
+The hint is:current=voltage/resistance
+6 B
+A CRO is a
+A. Cathode Ray Oscillator
+B. Cathode Ray Oscilloscope
+C. Capacitor-Resistor Oscillator
+D. Capacitor-Resistor Output 
+The hint is:it emitts cathode rays
+7 A
+A capacitor and a coil in parallel is called
+A. A Tuned Circuit
+B. A Timing Circuit
+C. A Delay Circuit
+D. A Schmitt Circuit 
+The hint is:it combines an inductor and capacitor  to make a circuit that is responsive to a frequency 
+8 C
+The current requirement of a LED is 
+A. 1.7mA
+B. 25mA
+C. between 3 and 35mA
+D. 65mA 
+The hint is:no hints available

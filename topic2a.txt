@@ -1,0 +1,56 @@
+1 B
+For a triangular and sawtooth waveform the rms voltage or current equals
+A. 0.707 times peak value
+B. 0.577 times peak value
+C. 0.577 times average value
+D. 0.707 times rms value 
+The hint is:it's related to peak value
+2 D
+The temperature-resistance coefficient of pure gold is 
+A. 0.0037
+B. 0.0039
+C. 0.0033
+D. 0.0034 
+The hint is:it is less than 0.0035
+3 C
+If a multiplate capacitor has 10 plates, each of area 10cm^2, then
+A. 10 capacitors will be in parallel
+B. 10 capacitors will be in series
+C. 9 capacitors will be in parallel
+D. 9 capacitors will be in series 
+The hint is:capcitors should be in parallel
+4 D
+What theorem is usually used in the analysis of a tarnsistor circuit
+A. Superposition theorem
+B. Millman's theorem
+C. Thevenin's theorem
+D. Norton's theorem 
+The hint is:no hints available
+5 C
+Optocoupler is otherwise known as
+A. Laser
+B. Photodiodes
+C. Optoisolator
+D. Photoconductive cell 
+The hint is:it is an optoelectronic circuit that produces repetitive electronic sine wave
+6 C
+The tolerence bands: gold; silver; brown, represent:
+A. 10%, 5%, 1%
+B. 5%, 10%, 2%
+C. 5%, 10%, 1%
+D. 10%, 5%, 2% 
+The hint is:Tolerance is the percentage of error in the resistor's resistance, or how much more or less you can expect a resistor's actual measured resistance to be from its stated resistance
+7 B
+Connecting a lead from the negative to the positive of a battery will produce:
+A. A high resistance circuit
+B. A short circuit
+C. A low current path
+D. An open circuit 
+The hint is:it results in an excessive current flowing through the circuit
+8 D
+The minimum number of flip-flops required to construct a mod-75 counter is
+A. 5
+B. 6
+C. 7
+D. 8
+The hint is:it is a greater value

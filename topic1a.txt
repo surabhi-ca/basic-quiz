@@ -1,0 +1,56 @@
+1 B
+A device for changing the connection on a connector to a different configuration is ___
+A. A converter
+B. An adapter
+C. An attachment
+D. A component 
+The hint is:convert AC to a single DC voltage
+2 D
+A ___ is used to read handwritten or printed text to make a digital image that is stored in memory.
+A. Touch pad
+B. Laser beam
+C. Printer
+D. Scanner 
+The hint is:captures images for computer editing and display
+3 A
+Which of the following is the 1's complement of 10?
+A. 01
+B. 10
+C. 11
+D. 00 
+The hint is:every bit that is 1 in the operand, is 0 in the result
+4 D
+Peripheral devices such as printers and monitors are considered to be
+A. Software
+B. Firmware
+C. Data
+D. Hardware 
+The hint is: delivery systems that store and run the written instructions provided by the software
+5 B
+A multidimensional array of dimension N is a collection of?
+A. Single Dimensional Arrays
+B. N dimensional arrays
+C. N-1 dimension arrays
+D. N-2 dimension arrays 
+The hint is:no hint available
+6 B
+An entire array is always passed by ___ to a called function.
+A. Call by value
+B. call by reference
+C. address relocation
+D. address restructure 
+The hint is: array is always passed by reference
+7 B 
+strcat() function adds null character.
+A. Only if there is space
+B. Always
+C. Depends on the standard
+D. Depends on the compiler 
+The hint is:adds a null character irrespective of anything
+8 B
+What does the following declaration indicate? int x:8;
+A. x stores a value of 8
+B. x is an 8-bit integer
+C. both A and B
+D. none of the above
+The hint is:The above statement defines x with it's size
